@@ -1,0 +1,6 @@
+[submodule "Project_1"]
+	path = Project_1
+	url = https://github.com/Abhiroop-S/testing
+[submodule "Project_2"]
+	path = Project_2
+	url = https://github.com/AbhiroopS/MassFolderArchiver
