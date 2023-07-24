@@ -7,3 +7,6 @@
 [submodule "Project_3"]
 	path = Project_3
 	url = https://github.com/RaviKasaudhan/testing-2
+[submodule "Project_4"]
+	path = Project_4
+	url = https://github.com/sindresorhus/awesome
